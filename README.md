@@ -1,3 +1,3 @@
-# Rapid Prototyping and Lean Engineering
+[![Build Status](https://travis-ci.org/pranaypareek/hello-world.svg?branch=master)](https://travis-ci.org/pranaypareek/hello-world)
 
-Class 1
+# Rapid Prototyping and Lean Engineering
