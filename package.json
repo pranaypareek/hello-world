@@ -3,7 +3,10 @@
   "description": "An example node.js project that uses vows and travis-ci.org for continuous integration",
   "version": "0.0.1",
   "scripts": {
-    "test": "node main.js"
+    "test": "vows --spec"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "*"
+  }
 }
