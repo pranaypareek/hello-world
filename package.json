@@ -1,13 +1,9 @@
 {
   "author": "Pranay Pareek",
-  "name": "hello-world rapid prototyping example",
   "description": "An example node.js project that uses vows and travis-ci.org for continuous integration",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
-    "test": "vows --spec"
+    "test": "node main.js"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "vows": "*"
-  }
+  "dependencies": {}
 }
